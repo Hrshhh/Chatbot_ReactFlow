@@ -1,36 +1,22 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a simple Chatbot flow builder using Next JS
+A chatbot flow is built by connecting multiple messages together to decide the order of execution. 
 
-## Getting Started
+Library: ReactFlow
+
+![image](https://github.com/Hrshhh/Chatbot_ReactFlow/assets/86558899/33cd67b8-dadf-423d-b1f1-387088cdd283)
+![image](https://github.com/Hrshhh/Chatbot_ReactFlow/assets/86558899/0ca9b27b-839c-427a-b32f-91795e894a20)
+![image](https://github.com/Hrshhh/Chatbot_ReactFlow/assets/86558899/98f32910-b6a9-42ec-92bb-b857d7079b32)
+
 
 First, run the development server:
 
 ```bash
+npm install
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
