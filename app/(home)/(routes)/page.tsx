@@ -25,7 +25,7 @@ export default function Home() {
       id: "1",
       type: "chatNode",
       data: { label: "Chat Node" },
-      position: { x: 250, y: 5 },
+      position: { x: 280, y: 15 },
     },
   ];
 
